@@ -1,0 +1,48 @@
+1_
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\lec-5+6-node-homework> node app.js egypt
+--------------------------------------------<DATA>----------------------------------------------
+countryName : Egypt. , regionName : Al Wadi al Jadid. , cityName : Al Kawamil Qibli.
+Weather conditions : Sunny
+temarature Celsius : 22.2°C , temarature Fahrenheit : 22.2°F
+latitude : 26.494184 , longtitude : 29.871903
+-------------------------------------------------------------------------------------------------
+
+2_
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\lec-5+6-node-homework> node app.js egypt
+--------------------------------------------<ERROR>----------------------------------------------
+ERROR :  unable to connect geocode service or Network error
+-------------------------------------------------------------------------------------------------
+
+3_
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\lec-5+6-node-homework> node app.js egypt
+--------------------------------------------<ERROR>----------------------------------------------
+ERROR :  Not Authorized - Invalid Token
+-------------------------------------------------------------------------------------------------
+
+
+4_
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\lec-5+6-node-homework> node app.js jjjjjjjjjjjj
+--------------------------------------------<ERROR>----------------------------------------------
+ERROR :  Unable to find country name ( jjjjjjjjjjjj ).
+-------------------------------------------------------------------------------------------------
+
+5_
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\lec-5+6-node-homework> node app.js egypt       
+--------------------------------------------<DATA>----------------------------------------------
+latitude : 26.494184 , longtitude : 29.871903
+-------------------------------------------------------------------------------------------------
+
+--------------------------------------------<ERROR>----------------------------------------------
+ERROR :  unable to connect weather api service or Network error
+-------------------------------------------------------------------------------------------------
+
+
+6_
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\lec-5+6-node-homework> node app.js egypt
+--------------------------------------------<DATA>----------------------------------------------
+latitude : 26.494184 , longtitude : 29.871903
+-------------------------------------------------------------------------------------------------
+
+--------------------------------------------<ERROR>----------------------------------------------
+ERROR :  API key is invalid.
+-------------------------------------------------------------------------------------------------
